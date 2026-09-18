@@ -31,3 +31,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with keyiness metrics, enabling strategic decision-making.
+
+
+### Data Architecture 
+
+<img width="1372" height="646" alt="image" src="https://github.com/user-attachments/assets/da34c67b-0d6c-488d-ad06-4d7e6f571ca5" />
+
